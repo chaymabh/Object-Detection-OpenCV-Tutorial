@@ -1,8 +1,8 @@
 # Object_Detection_OpenCV
 This is my first task of the TSF  internship . it contains two parts :
 
-1. The first one is detecting objects in images using OpenCV and mobilenet Deep Learning model
-2. The second one is about recognizing words in an image with easyocr.
+1. Detecting objects in images using OpenCV and mobilenet Deep Learning model
+2. Recognizing words in an image with easyocr.
 
 ## You need to install
 

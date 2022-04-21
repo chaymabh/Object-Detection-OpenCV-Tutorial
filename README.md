@@ -6,8 +6,11 @@ This is my first task of the TSF  internship . it contains two parts :
 
 ## You need to install
 
-### mobilenet : http://download.tensorflow.org/models/object_detection
-### OpenCV : https://opencv.org/
+### 1. mobilenet : http://download.tensorflow.org/models/object_detection
+### 2. OpenCV : https://opencv.org/
+### 3. Pytorch : Pytorch : https://pytorch.org/
+### 4. easyocr : https://pypi.org/project/easyocr/
+
 
 ## Ref : 
-**### OpenCV free course : https://opencv.org/**
+### OpenCV free course : https://opencv.org/

@@ -1,8 +1,6 @@
 # Object_Detection_OpenCV
 
-
-1. Detecting objects in images using OpenCV and mobilenet Deep Learning model
-2. Recognizing words in an image with easyocr.
+Object detection in images using OpenCV and mobilenet Deep Learning model and recognizing words in an image with easyocr.
 
 ## You need to install
 
@@ -10,7 +8,6 @@
 ### 2. OpenCV : https://opencv.org/
 ### 3. Pytorch : Pytorch : https://pytorch.org/
 ### 4. easyocr : https://pypi.org/project/easyocr/
-
 
 ## Ref : 
 ### OpenCV free course : https://opencv.org/

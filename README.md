@@ -11,7 +11,7 @@ To install and use this project, you can follow these steps:
 ```bash cd Object-Detection-OpenCV-Tutorial ```
 - **MobileNet** - Download the MobileNet model for object detection. 
 - **OpenCV** - Install OpenCV library for image processing and computer vision. 
-- **PyTorch** - Install PyTorch for deep learning capabilities. 
+- **Tensorflow** - Install Tensorflow for deep learning capabilities. 
 - **easyocr** - Install the easyocr library for text recognition.
   
 ## How to Use

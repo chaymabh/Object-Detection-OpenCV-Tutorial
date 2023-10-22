@@ -4,13 +4,16 @@ Welcome to this small tutorial on object detection using OpenCV and the MobileNe
 
 ## Installation
 
-To run this project, you need to install the following dependencies:
+To install and use this project, you can follow these steps:
 
-- **MobileNet** - Download the MobileNet model for object detection. [MobileNet Model](link_to_mobile_net)
-- **OpenCV** - Install OpenCV library for image processing and computer vision. [OpenCV Installation](link_to_opencv_installation)
-- **PyTorch** - Install PyTorch for deep learning capabilities. [PyTorch Installation](link_to_pytorch_installation)
-- **easyocr** - Install the easyocr library for text recognition. [easyocr Installation](link_to_easyocr_installation)
-
+- **Clone the Repository** ```bash git clone https://github.com/chaymabh/Object-Detection-OpenCV-Tutorial.git ```
+- **Navigate to the Project Directory**
+```bash cd Object-Detection-OpenCV-Tutorial ```
+- **MobileNet** - Download the MobileNet model for object detection. 
+- **OpenCV** - Install OpenCV library for image processing and computer vision. 
+- **PyTorch** - Install PyTorch for deep learning capabilities. 
+- **easyocr** - Install the easyocr library for text recognition.
+  
 ## How to Use
 
 Follow these steps to go through this tutorial:
@@ -23,10 +26,7 @@ Follow these steps to go through this tutorial:
 
 4. Feel free to modify and experiment with the code to deepen your understanding.
 
-## References and Support
+## License
 
-This tutorial is designed to get you started with object detection and text recognition. If you have any questions or need further assistance, please don't hesitate to contact us.
+This project is licensed under the MIT License. See the LICENSE file for details. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-We hope you find this tutorial helpful for your learning journey!
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
